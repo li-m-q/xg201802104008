@@ -2,20 +2,78 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2195efef-786a-437d-9d16-92c35b8176d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileContent/fileContent.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/tmp/war/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/controller/basic/user/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/controller/login/LogoutController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/dao/DegreeDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/dao/DepartmentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/dao/MajorDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/dao/ProfTitleDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/dao/SchoolDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/dao/TeacherDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/domain/GraduateProjectCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/filter/EncodingFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/filter/Filter10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/controller/basic/degree/DegreeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/controller/basic/degree/DegreeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/controller/basic/department/DepartmentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/controller/basic/department/DepartmentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/controller/basic/profTitle/ProfTitleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/controller/basic/profTitle/ProfTitleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/controller/basic/school/SchoolController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/controller/basic/school/SchoolController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/controller/basic/teacher/TeacherController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/controller/basic/teacher/TeacherController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/controller/basic/user/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/controller/login/LogoutController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/controller/login/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/dao/DegreeDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/dao/DepartmentDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/dao/MajorDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/dao/ProfTitleDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/dao/SchoolDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/dao/TeacherDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/dao/UserDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/domain/Degree.java" beforeDir="false" afterPath="$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/domain/Degree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/domain/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/domain/Department.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/domain/GraduateProject.java" beforeDir="false" afterPath="$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/domain/GraduateProject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/domain/GraduateProjectCategory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/domain/GraduateProjectStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/domain/GraduateProjectStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/domain/GraduateProjectType.java" beforeDir="false" afterPath="$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/domain/GraduateProjectType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/domain/Major.java" beforeDir="false" afterPath="$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/domain/Major.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/domain/ProfTitle.java" beforeDir="false" afterPath="$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/domain/ProfTitle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/domain/School.java" beforeDir="false" afterPath="$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/domain/School.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/domain/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/domain/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/domain/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/domain/authority/Actor.java" beforeDir="false" afterPath="$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/domain/authority/Actor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/domain/authority/ActorAssRole.java" beforeDir="false" afterPath="$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/domain/authority/ActorAssRole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/domain/authority/Resource.java" beforeDir="false" afterPath="$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/domain/authority/Resource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/domain/authority/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/domain/authority/Role.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/domain/authority/RoleAssResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/domain/authority/RoleAssResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/service/DegreeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/service/DegreeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/service/DepartmentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/service/DepartmentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/service/ProfTitleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/service/ProfTitleService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/service/SchoolService.java" beforeDir="false" afterPath="$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/service/SchoolService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/service/TeacherService.java" beforeDir="false" afterPath="$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/service/TeacherService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat/src/main/java/src/filter/Filter0.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat/src/main/java/src/filter/Filter1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat/src/main/java/src/test/DBAddTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/cat/src/main/java/test/DBAddTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat/src/main/java/src/test/DBDeleteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/cat/src/main/java/test/DBDeleteTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat/src/main/java/src/test/DBReadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/cat/src/main/java/test/DBReadTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat/src/main/java/src/test/FastJsonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/cat/src/main/java/test/FastJsonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat/src/main/java/src/test/TransactionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/cat/src/main/java/test/TransactionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat/src/main/java/src/util/Helper.java" beforeDir="false" afterPath="$PROJECT_DIR$/cat/src/main/java/util/Helper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat/src/main/java/src/util/IdService.java" beforeDir="false" afterPath="$PROJECT_DIR$/cat/src/main/java/util/IdService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat/src/main/java/src/util/InitServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/cat/src/main/java/util/InitServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat/src/main/java/src/util/JSONUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/cat/src/main/java/util/JSONUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat/src/main/java/src/util/JdbcHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/cat/src/main/java/util/JdbcHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat/src/main/java/src/util/WebHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/cat/src/main/java/util/WebHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat/src/main/java/src/util/WebUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/cat/src/main/java/util/WebUtil.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -39,24 +97,12 @@
     </projectState>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/dao/UserDao.java">
+        <entry file="file://$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/dao/TeacherDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="35" column="30" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/dao/TeacherDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="209" column="11" selection-start-line="209" selection-start-column="11" selection-end-line="209" selection-end-column="11" />
+            <state relative-caret-position="15">
+              <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -65,10 +111,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/dao/MajorDao.java">
+        <entry file="file://$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/controller/basic/degree/DegreeController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+            <state relative-caret-position="37">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -77,10 +123,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/dao/DegreeDao.java">
+        <entry file="file://$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/controller/basic/teacher/TeacherController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+            <state relative-caret-position="-493">
+              <caret line="88" column="46" selection-start-line="88" selection-start-column="46" selection-end-line="88" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -89,46 +135,15 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/controller/basic/degree/DegreeController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-798">
-              <caret line="55" column="21" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/cat/src/main/webapp/index.jsp">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/controller/basic/department/DepartmentController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-532">
-              <caret line="57" column="36" selection-start-line="57" selection-start-column="36" selection-end-line="57" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/controller/basic/profTitle/ProfTitleController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/controller/basic/school/SchoolController.java">
+        <entry file="file://$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/dao/UserDao.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="114">
-              <caret line="55" column="20" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="20" />
+              <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -137,10 +152,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/controller/basic/teacher/TeacherController.java">
+        <entry file="file://$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/domain/Teacher.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-551">
-              <caret line="41" column="34" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
+            <state relative-caret-position="1235">
+              <caret line="84" selection-start-line="84" selection-end-line="84" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/controller/login/LoginController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -149,10 +173,31 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/controller/basic/user/UserController.java">
+        <entry file="file://$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/domain/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-133">
-              <caret line="88" column="18" selection-start-line="88" selection-start-column="18" selection-end-line="88" selection-end-column="18" />
+            <state relative-caret-position="76">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/controller/basic/school/SchoolController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1045">
+              <caret line="55" column="48" selection-start-line="55" selection-start-column="48" selection-end-line="55" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/controller/login/LogoutController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -162,6 +207,13 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -170,7 +222,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/cat/build.gradle" />
-        <option value="$PROJECT_DIR$/cat/src/main/java/src/util/JdbcHelper.java" />
         <option value="$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/dao/UserDao.java" />
         <option value="$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/dao/DepartmentDao.java" />
         <option value="$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/dao/DegreeDao.java" />
@@ -194,8 +245,25 @@
         <option value="$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/controller/basic/school/SchoolController.java" />
         <option value="$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/controller/basic/teacher/TeacherController.java" />
         <option value="$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/controller/basic/user/UserController.java" />
-        <option value="$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/dao/TeacherDao.java" />
         <option value="$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/dao/MajorDao.java" />
+        <option value="$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/domain/authority/ActorAssRole.java" />
+        <option value="$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/domain/authority/Resource.java" />
+        <option value="$PROJECT_DIR$/cat/src/main/java/src/util/WebHelper.java" />
+        <option value="$PROJECT_DIR$/cat/src/main/java/src/test/FastJsonTest.java" />
+        <option value="$PROJECT_DIR$/cat/src/main/java/src/test/TransactionTest.java" />
+        <option value="$PROJECT_DIR$/cat/src/main/java/src/test/DBReadTest.java" />
+        <option value="$PROJECT_DIR$/cat/src/main/java/src/test/DBDeleteTest.java" />
+        <option value="$PROJECT_DIR$/cat/src/main/java/src/test/DBAddTest.java" />
+        <option value="$PROJECT_DIR$/cat/src/main/java/src/util/JdbcHelper.java" />
+        <option value="$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/dao/TeacherDao.java" />
+        <option value="$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/controller/login/LogoutController.java" />
+        <option value="$PROJECT_DIR$/cat/src/main/java/src/filter/Filter1.java" />
+        <option value="$PROJECT_DIR$/cat/src/main/java/src/filter/Filter0.java" />
+        <option value="$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/domain/Teacher.java" />
+        <option value="$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/controller/basic/school/SchoolController.java" />
+        <option value="$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/controller/login/LogoutController.java" />
+        <option value="$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/controller/login/LoginController.java" />
+        <option value="$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/dao/TeacherDao.java" />
       </list>
     </option>
   </component>
@@ -208,7 +276,7 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-24" />
-    <option name="width" value="1023" />
+    <option name="width" value="831" />
     <option name="height" value="1032" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -217,6 +285,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -232,28 +302,123 @@
             <path>
               <item name="xg201802104008" type="b2602c69:ProjectViewProjectNode" />
               <item name="xg201802104008" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="cat" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xg201802104008" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xg201802104008" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="cat" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="libs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xg201802104008" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xg201802104008" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="cat" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xg201802104008" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xg201802104008" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="cat" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="xg201802104008" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xg201802104008" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="cat" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xg201802104008" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xg201802104008" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="cat" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bysj" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xg201802104008" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xg201802104008" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="cat" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bysj" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xg201802104008" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xg201802104008" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="cat" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bysj" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xg201802104008" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xg201802104008" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="cat" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bysj" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="teacher" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xg201802104008" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xg201802104008" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="cat" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xg201802104008" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xg201802104008" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="cat" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="xg201802104008" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xg201802104008" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="gradle" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="xg201802104008" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="xg201802104008" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="gradle" type="462c0819:PsiDirectoryNode" />
+              <item name="wrapper" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="MANAGE_IGNORE_FILES_PROPERTY" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Git/bin/git.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.19101124" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
@@ -273,14 +438,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Tomcat Server.T9">
+    <configuration name="TeacherDao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.edu.sdjzu.xg.bysj.dao.TeacherDao" />
+      <module name="cat_main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.edu.sdjzu.xg.bysj.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="T9" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.0.M9" ALTERNATIVE_JRE_ENABLED="false">
       <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/Gradle___JW___cat_1_0_SNAPSHOT_war__exploded_/" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="Gradle : JW : cat-1.0-SNAPSHOT.war">
+        <artifact name="Gradle : JW : cat-1.0-SNAPSHOT.war (exploded)">
           <settings>
-            <option name="CONTEXT_PATH" value="/" />
+            <option name="CONTEXT_PATH" value="/Gradle___JW___cat_1_0_SNAPSHOT_war__exploded_" />
           </settings>
         </artifact>
       </deployment>
@@ -343,10 +522,15 @@
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="Gradle : JW : cat-1.0-SNAPSHOT.war" />
+          <artifact name="Gradle : JW : cat-1.0-SNAPSHOT.war (exploded)" />
         </option>
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TeacherDao" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -358,7 +542,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575451222365</updated>
-      <workItem from="1575451223820" duration="4442000" />
+      <workItem from="1575451223820" duration="6256000" />
+      <workItem from="1575543388894" duration="4775000" />
+      <workItem from="1575550514697" duration="5727000" />
+      <workItem from="1575560921238" duration="456000" />
     </task>
     <task id="LOCAL-00001" summary="first work JW31">
       <created>1575456277914</created>
@@ -367,48 +554,57 @@
       <option name="project" value="LOCAL" />
       <updated>1575456277914</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first work JW31">
+      <created>1575456446779</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575456446779</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4442000" />
+    <option name="totallyTimeSpent" value="17214000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Web" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2497979" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2724333" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Build" weight="0.07092199" />
-      <window_info anchor="bottom" id="Application Servers" weight="0.32978722" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.5004042" side_tool="true" visible="true" weight="0.330373" />
-      <window_info anchor="bottom" id="Java Enterprise" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4995958" visible="true" weight="0.330373" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4995958" visible="true" weight="0.7122558" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Gradle" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.4995958" weight="0.46181172" />
+      <window_info anchor="bottom" id="Application Servers" order="8" weight="0.32978722" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5004042" side_tool="true" weight="0.44227353" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3285968" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Gradle" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -419,310 +615,190 @@
     <option name="LAST_COMMIT_MESSAGE" value="first work JW31" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/gradlew.bat">
+    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/service/TeacherService.java" />
+    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/service/UserService.java" />
+    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/dao/UserDao.java" />
+    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/dao/DegreeDao.java" />
+    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/controller/basic/department/DepartmentController.java" />
+    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/controller/basic/profTitle/ProfTitleController.java" />
+    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/controller/basic/school/SchoolController.java" />
+    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/controller/basic/user/UserController.java" />
+    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/dao/MajorDao.java" />
+    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/domain/authority/ActorAssRole.java" />
+    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/domain/authority/Resource.java" />
+    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/domain/authority/Role.java" />
+    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/domain/authority/RoleAssResource.java" />
+    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/util/WebHelper.java" />
+    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/test/FastJsonTest.java" />
+    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/test/TransactionTest.java" />
+    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/test/DBReadTest.java" />
+    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/test/DBDeleteTest.java" />
+    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/test/DBAddTest.java" />
+    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/util/WebUtil.java" />
+    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/util/JSONUtil.java" />
+    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/util/JdbcHelper.java" />
+    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/util/IdService.java" />
+    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/util/Helper.java" />
+    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/util/InitServlet.java" />
+    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/controller/basic/degree/DegreeController.java" />
+    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/controller/basic/teacher/TeacherController.java" />
+    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/dao/TeacherDao.java" />
+    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/controller/login/LogoutController.java" />
+    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/filter/Filter1.java" />
+    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/filter/Filter0.java" />
+    <entry file="file://$PROJECT_DIR$/cat/src/main/java/util/Helper.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/gradlew">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/controller/basic/department/DepartmentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/controller/basic/profTitle/ProfTitleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/controller/basic/user/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/dao/DegreeDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/domain/GraduateProjectCategory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/filter/EncodingFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/filter/Filter10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/service/TeacherService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cat/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/util/JdbcHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
-          <caret line="13" column="51" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/dao/ProfTitleDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="21" column="40" lean-forward="true" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#460#471#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/cat/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/dao/SchoolDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-191">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#428#436#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/dao/DepartmentDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1402#1414#0" expanded="true" />
-            <element signature="e#2288#2300#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/domain/Degree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="55">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/domain/GraduateProject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/domain/GraduateProjectCategory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/domain/Department.java">
+    <entry file="file://$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/dao/UserDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
-          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/domain/GraduateProjectStatus.java">
+    <entry file="file://$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/domain/Teacher.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="1235">
+          <caret line="84" selection-start-line="84" selection-end-line="84" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/domain/GraduateProjectType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/domain/Major.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/domain/ProfTitle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/domain/School.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/domain/Teacher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="40" selection-start-column="40" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/domain/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/service/DegreeService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/service/DepartmentService.java">
+    <entry file="file://$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/controller/login/LoginController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
-          <caret line="21" column="46" lean-forward="true" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#759#771#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/service/ProfTitleService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/service/SchoolService.java">
+    <entry file="file://$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/domain/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="76">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/controller/basic/school/SchoolController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1045">
+          <caret line="55" column="48" selection-start-line="55" selection-start-column="48" selection-end-line="55" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/service/TeacherService.java">
+    <entry file="file://$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/controller/login/LogoutController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="304">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/service/UserService.java">
+    <entry file="file://$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/controller/basic/teacher/TeacherController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="-493">
+          <caret line="88" column="46" selection-start-line="88" selection-start-column="46" selection-end-line="88" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/dao/UserDao.java">
+    <entry file="file://$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/dao/TeacherDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="35" column="30" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
+        <state relative-caret-position="15">
+          <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/dao/DegreeDao.java">
+    <entry file="file://$PROJECT_DIR$/cat/src/main/java/cn/edu/sdjzu/xg/bysj/controller/basic/degree/DegreeController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/controller/basic/degree/DegreeController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-798">
-          <caret line="55" column="21" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/controller/basic/department/DepartmentController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-532">
-          <caret line="57" column="36" selection-start-line="57" selection-start-column="36" selection-end-line="57" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/controller/basic/profTitle/ProfTitleController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/controller/basic/school/SchoolController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="55" column="20" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/controller/basic/teacher/TeacherController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-551">
-          <caret line="41" column="34" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/controller/basic/user/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-133">
-          <caret line="88" column="18" selection-start-line="88" selection-start-column="18" selection-end-line="88" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/dao/TeacherDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="209" column="11" selection-start-line="209" selection-start-column="11" selection-end-line="209" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cat/src/main/java/src/cn/edu/sdjzu/xg/bysj/dao/MajorDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        <state relative-caret-position="37">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -732,6 +808,64 @@
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>cat_main|cat|xg201802104008</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.19101124" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>11</last-edited>
@@ -739,6 +873,17 @@
             <option name="proportions">
               <list>
                 <option value="0.19101124" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
               </list>
             </option>
           </splitter-proportions>
